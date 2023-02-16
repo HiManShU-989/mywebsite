@@ -1,0 +1,182 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color:azure;
+}
+p{
+    line-height: 2;
+}
+.bio{
+    width: 30%;
+    margin: auto;
+}
+.skills{
+    margin: 100px;
+    width: 60%;
+    text-align:left;
+}
+.topcontainer{
+    width: 250px;
+    margin: 0 auto 0 auto;
+    margin-top: 200px;
+}
+h1{
+    font-size: 285%;
+    color: darkblue;
+    margin: 50px auto 0 auto;
+    line-height: 2;
+    font-family: sacramento;
+}
+.first-cloud{
+    position: absolute;
+    left: 800px;
+    top: 25px;
+    padding-top: 100px;
+}
+.cloud2{
+    position: absolute;
+    bottom: 250px;
+    left: 400px;
+}
+.pp{
+    border-radius: 50%;
+    border: 5px solid black;
+    width: 20%;
+    margin: 50px auto 50px auto;
+}
+.cc{
+    border-radius: 50%;
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+.wd{
+    float: left;
+    width: 50%;
+    margin: 50px 50px 50px 50px;
+}
+.sg{
+    float:right ;
+    width: 50%;
+    margin: 50px 50px 50px 50px;
+}
+.eh{
+    float: left;
+    width: 50%;
+    margin: 50px 50px 50px 50px;
+}
+.cm{
+    width: 30%;
+    margin: 50px auto 50px auto;
+}
+h3{
+    font-size: 175%;
+    font-family: kanit;
+    color: black;
+}
+.hl{
+    font-size: 2rem;
+    font-family: merriweather;
+    color:black;
+}
+h2{
+    font-size: 1.3rem;
+    font-weight: normal;
+    font-family: merriweather;
+    color: darkblue;
+}
+p{
+    font-size: 125%;
+    font-family: oswald;
+    color: black;
+}
+.ms{
+    font-size: 2rem;
+    font-family: kanit;
+    color: darkblue;
+    text-align: center;
+    margin-left: 300px;
+}
+.git{
+    font-size: 1.5rem;
+    font-family: merriweather;
+    font-weight:600 ;
+    color: darkblue;
+}
+.webd{
+    color: darkblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.sndg{
+    color: darkblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.eth{
+    color: darkblue;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+hr{
+    width: 4%;
+    border: dotted 6px;
+    border-bottom: none;
+    color: cornflowerblue;
+}
+.hr{
+    position: relative;
+    right: 300px;
+
+}
+.hr1{
+    margin-top: 30px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 50px 50px 50px 50px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .p2{
+    width: 30%;
+    margin: auto;
+  }
+  .bottom-container{
+    background-color: #66BFBF;
+    padding: 30px 0 20px 0;
+  }
+  a{
+    color:darkblue;
+    font-family: Montserrat;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover{
+    color:#ffffff;
+  }
+  .a{
+    color:#ffffff;
+    font-size: 0.8rem;
+    padding: 20px 0px;
+  }
